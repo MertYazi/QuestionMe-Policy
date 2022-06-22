@@ -61,6 +61,9 @@ Firebase için Google Analitik
 Kayıt Verileri
 Hizmetimi her kullandığınızda, uygulamada bir hata olması durumunda, telefonunuzdaki Log Data adlı veri ve bilgileri (üçüncü taraf ürünler aracılığıyla) topladığımı size bildirmek isterim. Bu Günlük Verileri, cihazınızın İnternet Protokolü (“IP”) adresi, cihaz adı, işletim sistemi sürümü, Hizmetimi kullanırken uygulamanın yapılandırması, Hizmeti kullanımınızın saati ve tarihi ve diğer istatistikler gibi bilgileri içerebilir.
 
+Bilgi Yönetimi
+Hakkınızda sahip olduğumuz belirli Kişisel Bilgileri silebilirsiniz. Silebileceğiniz Kişisel Bilgiler, Mobil Uygulama ve Hizmetler değiştikçe değişebilir. Ancak Kişisel Bilgileri sildiğinizde, bağlı şirketlerimize ve ortaklarımıza karşı yükümlülüklerimizi yerine getirmek için gerekli olan süre boyunca, revize edilmemiş Kişisel Bilgilerin bir kopyasını kayıtlarımızda tutabiliriz. Kişisel Bilgilerinizi silmek veya hesabınızı kalıcı olarak silmek isterseniz, bunu bizimle iletişime geçerek yapabilirsiniz.
+
 Çerezler
 Çerezler, anonim benzersiz tanımlayıcılar olarak yaygın olarak kullanılan az miktarda veri içeren dosyalardır. Bunlar, ziyaret ettiğiniz web sitelerinden tarayıcınıza gönderilir ve cihazınızın dahili hafızasında saklanır.
 
@@ -194,6 +197,9 @@ Google Play Services
 Google Analytics for Firebase
 Log Data
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+Managing Information
+You are able to delete certain Personal Information we have about you. The Personal Information you can delete may change as the Mobile Application and Services change. When you delete Personal Information, however, we may maintain a copy of the unrevised Personal Information in our records for the duration necessary to comply with our obligations to our affiliates and partners. If you would like to delete your Personal Information or permanently delete your account, you can do so by contacting us.
 
 Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
